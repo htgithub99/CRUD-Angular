@@ -6,4 +6,4 @@
 2. Hướng chạy project:
 + Open folder fake_jsonServer chạy lệnh npm start để chạy dữ liệu fake api
 + Open folder NGRX-Project chạy lệnh npm start 
-Chúc may mắn
+*Chúc may mắn
