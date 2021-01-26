@@ -1,0 +1,62 @@
+.card {
+  img {
+    width: 100%;
+    object-fit: contain;
+  }
+  .card-body {
+    &:hover {
+      ul {
+        opacity: 1;
+      }
+    }
+    .card-title {
+      font-size: 14px;
+      height: 39px;
+      overflow: hidden;
+      font-family: 'Fira Sans Condensed', sans-serif;
+    }
+    .card-text {
+      height: 70px;
+      overflow: hidden;
+      font-family: 'Fraunces', serif;
+    }
+    .card-subtitle {
+      font-family: 'Courgette', cursive;
+      font-size: 13px;
+    }
+    ul {
+      opacity: 0;
+      padding: 0;
+      margin: 0;
+      li {
+        outline: none;
+        cursor: pointer;
+        display: inline-block;
+        padding: 0 10px 0 0;
+        font-size: 13px;
+        &:nth-child(1) {
+          color: #00997a;
+        }
+        &:nth-child(2) {
+          color:#ff3d71;
+        }
+        &:nth-child(3) {
+          color: #1a34b8;
+        }
+      }
+    }
+  }
+}
+
+.modal-dialog {
+  .modal-content {
+    button.close {
+      border: none;
+      background: none;
+      &:focus {
+        outline: none;
+      }
+    }
+  }
+}
+

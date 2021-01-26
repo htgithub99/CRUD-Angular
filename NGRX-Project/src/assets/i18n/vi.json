@@ -1,0 +1,13 @@
+{
+  "PRODUCT": {
+    "CREATE": "Thêm",
+    "DELETE": "Xóa",
+    "UPDATE": "Cập nhật",
+    "TITLE_UPDATE": "Cập nhật sản phẩm",
+    "LINK_IMAGE": "Hình ảnh URL ảo của bạn",
+    "DESCRIPTION": "Mô tả",
+    "TITLE_CREATE": "Tạo mới sản phẩm",
+    "CANCEL": "Hủy",
+    "PLACEHOLDER" : "Tên sản phẩm"
+  }
+}

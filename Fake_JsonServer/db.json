@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": 5,
+      "code": "VOCVWJX8",
+      "description": "Bài Tập Hoá Học 11 (T9)",
+      "thumbnail": "https://salt.tikicdn.com/ts/product/12/39/99/7c193a8f7d01c1b38825d1c427971ae4.jpg",
+      "name": "Bài Tập Hoá Học 11 (T9)",
+      "order": 0,
+      "original_price": 1823649,
+      "price": 4255442,
+      "product_type": "products",
+      "published_date": "2020-12-21 15:04:21"
+    },
+    {
+      "name": "One Piece Strong Words - Trích Dẫn Hay Nhất - Tập 1",
+      "price": 43000,
+      "thumbnail": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/o/p/op-strong-words--2-.u5102.d20170429.t003128.267787_1.jpg",
+      "description": "One Piece Strong Words - Trích Dẫn Hay Nhất - Tập 1 Là bộ truyện tranh có doanh số đứng đầu thế giới, ONE PIECE hấp dẫn độc giả không chỉ do có một nội dung đồ sộ hoành tráng mà còn vì tác phẩm đã...",
+      "code": "VOCVWJX8",
+      "original_price": "1823649",
+      "product_type": "products",
+      "published_date": "2021-01-14T02:36:39.788Z",
+      "id": 34
+    },
+    {
+      "id": 35,
+      "name": "Học Viện Siêu Anh Hùng - Tập 5",
+      "price": 20000,
+      "thumbnail": "https://salt.tikicdn.com/ts/product/5e/82/20/ef108a47cd32bfa1fadb12e64fbaa170.jpg",
+      "description": "Học Viện Siêu Anh Hùng -Tập 5 Một ngày nọ, cơ thể con người bắt đầu hình thành một thứ siêu năng lực được gọi là “kosei”, từ đó xã hội bắt đầu tràn ngập những người sở hữu siêu năng lực. Tuy nhiên sự...",
+      "code": "VOCVWJX8",
+      "original_price": "1823649",
+      "product_type": "products",
+      "published_date": "2021-01-18T08:18:16.013Z"
+    },
+    {
+      "name": "Gintama - Tập 45 (Tái Bản)",
+      "price": 20000,
+      "thumbnail": "https://salt.tikicdn.com/ts/product/c8/73/5d/af54428ddf341b8892ed3682248b2552.jpg",
+      "description": "Gintama - Tập 45Để hoàn thành lời hứa với giai nhân Suzuran và Maizo, bề tôi trung thành của Mạc Phủ, bọn Gintoki đã rơi vào một cuộc chiến với tướng quân đời trước nhưng binh lực của quân Mạc Phủ...",
+      "code": "VOCVWJX8",
+      "original_price": "1823649",
+      "product_type": "products",
+      "published_date": "2021-01-14T02:51:56.497Z",
+      "id": 36
+    },
+    {
+      "name": "Gintama Tập 53: Tạm Biệt Tử Thần (Tái Bản 2020)",
+      "price": 20000,
+      "thumbnail": "https://salt.tikicdn.com/ts/product/e5/79/5d/5041f769e7b6a08c753a1ebacc4b84e9.jpg",
+      "description": "Gin và Hijikata cùng lúc gặp tai nạn, điều đó khiến cả hai vô tình cùng hoán đổi hồn phách cho nhau. Cho tới khi vị trí được lập lại như cũ, số phận của tiệm vạn năng và Shinsengumi do hai người lãnh...",
+      "code": "VOCVWJX8",
+      "original_price": "1823649",
+      "product_type": "products",
+      "published_date": "2021-01-14T02:52:28.489Z",
+      "id": 37
+    },
+    {
+      "name": "Tân Doraemon Bóng Chày (Tập 1)",
+      "price": 16000,
+      "thumbnail": "https://salt.tikicdn.com/ts/product/af/54/d6/d0252834d9ca220978e4911c430a26b7.jpg",
+      "description": "Tân Doraemon Bóng Chày (Tập 1) Cậu nhóc Tamaemon rất ngưỡng mộ Kuroemon - cầu thủ thiếu niên ngày nào nay đã đặt chân vào giới bóng chày chuyên nghiệp! Từng có kinh...",
+      "code": "VOCVWJX8",
+      "original_price": "1823649",
+      "product_type": "products",
+      "published_date": "2021-01-14T02:53:32.106Z",
+      "id": 38
+    },
+    {
+      "id": 39,
+      "name": "Thám Tử Lừng Danh Conan - Tập 44 (Tái Bản 2019)",
+      "price": 30000,
+      "thumbnail": "https://salt.tikicdn.com/ts/product/ba/95/ef/9ad636a494b6afc10e69f9b5abe08136.jpg",
+      "description": "Ông bác của Sonoko, Suzuki Jirokichi đã đăng tin trên báo để thách thức siêu đạo chích Kid đến ăn trộm Big Jewel, \"Kì tích của biển cả\". Siêu trộm Kid chấp nhận lời thách thức và xuất hiện một cách...",
+      "code": "VOCVWJX8",
+      "original_price": "1823649",
+      "product_type": "products",
+      "published_date": "2021-01-18T03:43:02.032Z"
+    }
+  ]
+}

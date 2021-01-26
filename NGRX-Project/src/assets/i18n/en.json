@@ -1,0 +1,13 @@
+{
+  "PRODUCT": {
+    "CREATE": "Create",
+    "DELETE": "Delete",
+    "UPDATE": "Update",
+    "TITLE_UPDATE": "Update Product",
+    "LINK_IMAGE": "Your vanity URL images",
+    "DESCRIPTION": "Description",
+    "TITLE_CREATE": "Create Product",
+    "CANCEL": "Cancel",
+    "PLACEHOLDER" : "Product's name"
+  }
+}

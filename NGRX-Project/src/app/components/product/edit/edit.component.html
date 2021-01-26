@@ -1,0 +1,28 @@
+<form *ngIf="updateform" action="" [formGroup]="updateform" (ngSubmit)="onSubmit(updateform)">
+  <div class="input-group mb-3">
+    <h1>{{ 'PRODUCT.TITLE_UPDATE' | translate }}</h1>
+  </div>
+  <div class="input-group mb-3">
+    <span class="input-group-text" id="basic-addon1">@</span>
+    <input type="text" class="form-control" placeholder="Username" formControlName="name" aria-label="Username" aria-describedby="basic-addon1">
+  </div>
+
+  <label for="basic-url" class="form-label">{{ 'PRODUCT.LINK_IMAGE' | translate }}</label>
+  <div class="input-group mb-3">
+    <span class="input-group-text" id="basic-addon3">https://...</span>
+    <input type="text" class="form-control" formControlName="thumbnail" id="basic-url" aria-describedby="thumbnail">
+  </div>
+
+  <div class="input-group mb-3">
+    <span class="input-group-text">$</span>
+    <input type="number" class="form-control" formControlName="price" aria-label="Amount (to the nearest dollar)">
+    <span class="input-group-text">.00</span>
+  </div>
+
+  <div class="input-group">
+    <span class="input-group-text">{{ 'PRODUCT.DESCRIPTION' | translate}}</span>
+    <textarea class="form-control" formControlName="description" aria-label="description"></textarea>
+  </div>
+  <button type="submit" class="btn btn-success mt-5">{{ 'PRODUCT.UPDATE' | translate }}</button>
+  <button routerLink="/products" class="btn btn-danger mt-5">{{ 'PRODUCT.CANCEL' | translate }}</button>
+</form>

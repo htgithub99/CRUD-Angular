@@ -1,0 +1,15 @@
+form {
+  font-family: 'Fira Sans Condensed', sans-serif;
+  .input-group {
+    .form-control {
+      &:focus {
+        outline: none;
+        box-shadow: none;
+      }
+    }
+  }
+
+  .btn-success {
+    margin: 30px 20px 0 0;
+  }
+}
